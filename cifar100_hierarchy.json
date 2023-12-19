@@ -1,0 +1,62 @@
+{
+    "root":{
+        "animals":{
+            "mammals":{
+                "medium-sized-mammals":
+                    ["fox", "porcupine", "possum", "raccoon", "skunk"],
+                "small-mammals":
+                    ["hamster", "mouse", "rabbit", "shrew", "squirrel"],
+                "large-carnivores":
+                    ["bear", "leopard", "lion", "tiger", "wolf"],
+                "large-omnivores-and-herbivores":
+                    ["camel", "cattle", "chimpanzee", "elephant", "kangaroo"]
+            },
+            "invertebrates":{
+                "insects":
+                    ["bee", "beetle", "butterfly", "caterpillar", "cockroach"],
+                "non-insect-invertebrates":
+                    ["crab", "lobster", "snail", "spider", "worm"]
+            },
+            "in-water":{
+                "aquatic":
+                    ["mammals", "beaver", "dolphin", "otter", "seal", "whale"],
+                "fish":
+                    ["aquarium-fish", "flatfish", "ray", "shark", "trout"]
+            },
+            "reptiles":
+                ["crocodile", "dinosaur", "lizard", "snake", "turtle"]
+        },
+        "plants":{
+            "fruit-and-vegetables":
+                ["apples", "mushrooms", "oranges", "pears", "sweet-peppers"],
+            "flowers":
+                ["orchids", "poppies", "roses", "sunflowers", "tulips"],
+            "trees":
+                ["maple", "oak", "palm", "pine", "willow"]
+        },
+        "people":
+            ["baby", "boy", "girl", "man", "woman"],
+        "objects":{
+            "large-objects":{
+                "large-man-made-outdoor-things":
+                    ["bridge", "castle", "house", "road", "skyscraper"],
+                "large-natural-outdoor-scenes":
+                    ["cloud", "forest", "mountain", "plain", "sea"]
+                },
+            "household":{
+                "food-containers":
+                    ["bottles", "bowls", "cans", "cups", "plates"],
+                "household-electrical-devices":
+                    ["clock", "computer-keyboard", "lamp", "telephone", "television"],
+                "household-furniture":
+                    ["bed", "chair", "couch", "table", "wardrobe"]
+                },
+            "vehicles":{
+                "vehicles-1":
+                    ["bicycle", "bus", "motorcycle", "pickup-truck", "train"],
+                "vehicles-2":
+                    ["lawn-mower", "rocket", "streetcar", "tank", "tractor"]
+                }
+        }
+    }
+}
